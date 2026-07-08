@@ -4,5 +4,4 @@ numpy<2
 scikit-learn
 joblib
 pandas
-yfinance
 plotly
